@@ -1,4 +1,5 @@
 # android_bootable_recovery-android-7.0-1
+
 Setting version, time zone and time H24 from BoardConfig.mk
 
 Add inside BoardConfig.mk:
