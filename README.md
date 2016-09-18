@@ -5,6 +5,7 @@ Setting version, time zone and time H24 from BoardConfig.mk
 Add inside BoardConfig.mk:
 
  For Version TWRP
+ 
 TW_SPECIFIC_VERSION_STR := "3.0.2-x by Github"
 
  For time Zone Italy
